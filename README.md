@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Shamir Afridi
-- 👀 I’m Web Developer and Machine Learning Enthusiatis
-- 🌱 I’m currently learning
+- 👀 I’m in love with Python
+- 🌱 I’m currently exploring Chat GPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
