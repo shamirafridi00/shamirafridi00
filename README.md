@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Shamir Afridi
 - 👀 I’m in love with Python
 - 🌱 I’m currently exploring Chat GPT
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+.
 
 <!---
 shamirafridi00/shamirafridi00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
