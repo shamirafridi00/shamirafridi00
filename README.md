@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shamir Afridi
-- 👀 I’m in love with Python
-- 🌱 I’m currently exploring Chat GPT
+- 👀 I’m in the process of becoming a good problem solver. 
 .
 
 <!---
