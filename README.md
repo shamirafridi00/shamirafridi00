@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shamir Afridi
-- 👀 I’m in the process of becoming a good problem solver. 
+- 👀 I’m a Full Stack Developer
 .
 
 <!---
